@@ -1,0 +1,8 @@
+Conflict 
+
+when we make file of same name in both main and the branch and merges it conflict arises.
+
+Resolution
+
+Open file in main and remove the barriers then add and commit.
+
